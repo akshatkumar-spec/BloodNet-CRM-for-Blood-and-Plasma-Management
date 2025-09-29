@@ -19,3 +19,4 @@ Real-time inventory dashboards to monitor blood stock and trends.
 
 
 Reports and analytics for healthcare administrators to make data-driven decisions.
+Docs link : https://docs.google.com/document/d/1v7MLXjWlMpKLoi7tLK3e4AQXByRhVCAy5XK-J3l8oAI/edit?usp=sharing
